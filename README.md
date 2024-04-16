@@ -15,3 +15,6 @@ DO NOT USE THESE TOOLS IF YOUR DEVICE DOESN'T MATCH THE FOLLOWING:
 The root tool is based off of Framaroot. It has been modified to work best on the Verizon Ellipsis 7.
 <p>Click the following link to root your Ellipsis 7</p>
 <p><a href="https://github.com/wicorn29/Project-Ellipsis/tree/main/Root">Root Instructions</a></p>
+
+#  Fix the Play Store
+<p>I have also made a guide for this much like the root guide. Click the following link to fix the play store. (You don't need root for this and this only)</p>
